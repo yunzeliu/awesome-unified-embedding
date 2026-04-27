@@ -9,7 +9,6 @@
 ## Contents
 
 - [Contents](#contents)
-- [How to read this list](#how-to-read-this-list)
 - [Industry frontier (2024–2026)](#industry-frontier-20242026)
 - [Dual-encoder vision-language (CLIP family)](#dual-encoder-vision-language-clip-family)
   - [Foundational](#foundational)
@@ -54,21 +53,7 @@
   - [Compositionality \& robustness](#compositionality--robustness)
 - [Datasets (training)](#datasets-training)
 - [Surveys \& positional papers](#surveys--positional-papers)
-- [Contributing](#contributing)
 - [License](#license)
-
----
-
-## How to read this list
-
-Each entry follows the schema:
-
-> **[Model name]** (Lab/Org, Year) — `arXiv:ID` · [Paper] · [Code] · [Model] — *one-line takeaway*
-
-- Papers are sorted by release date within each section.
-- ★ marks entries with particularly strong open-source artefacts.
-- Closed/proprietary models are included in §Industry frontier only.
-- Benchmarks and datasets have their own sections.
 
 ---
 
@@ -98,8 +83,6 @@ Each entry follows the schema:
 | **SFR-Embedding-Mistral/2R** | 2024 | text | 32K | EN | MTEB 67.6 / 70.3 | Open |
 | **Linq-Embed-Mistral** | 2024 | text | 32K | EN | MTEB 68.2 | Open |
 | **Jasper + Stella** (NovaSearch) ★ | 2024-12 | text + image | — | EN | MTEB 71.54 | Open |
-
-Model cards and inference examples: see each entry's original repo.
 
 ---
 
@@ -983,15 +966,6 @@ Model cards and inference examples: see each entry's original repo.
 
 ---
 
-## Contributing
-
-PRs welcome. Please follow the schema:
-
-> **[Model name]** (Lab, Year) — `arXiv:ID` · [paper](URL) · [code](URL) · [model](URL) — *one-line takeaway*
-
-Sort new entries by date within the smallest relevant section.
-
----
 
 ## License
 
