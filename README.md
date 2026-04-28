@@ -661,7 +661,6 @@
 - **"Maintaining MTEB"** (2025) — `arXiv:2506.21182` — Contamination analysis.
 - **VLM survey** (Zong et al., 2023) — general VLM overview.
 - **Multimodal LLM survey** (Yin et al., 2024) — covers MLLMs but not embedding-specific.
-- **This work** — [survey.md](survey.md).
 
 ---
 
