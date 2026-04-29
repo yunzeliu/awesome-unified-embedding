@@ -1,7 +1,9 @@
 # Awesome Unified Embedding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of papers, models, datasets, and benchmarks for **unified multi-modal embedding models** — from CLIP to Gemini Embedding 2.
-
+<p align="center">
+  <img src="multimodal_embedder_lineage_16_9_fixed.svg" alt="Lineage Map" width="100%">
+</p>
 
 **Last updated**: 2026-04 · **References**: 500+ 
 
